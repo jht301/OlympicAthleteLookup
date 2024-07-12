@@ -13,7 +13,6 @@ This project analyzes historical Olympic data to predict athlete performance in 
 - Analysis of consecutive wins and their impact on future performance
 - Age-based performance trends
 - Athlete lookup tool with performance prediction
-![PARIS olimpic picture](https://github.com/user-attachments/assets/bc7313ae-6cb6-4cc2-8d40-7118a3147625)
 
 **Technologies Used**
 
@@ -34,6 +33,8 @@ This project analyzes historical Olympic data to predict athlete performance in 
 **How to Use**
 1. Run the analysis scripts to generate visualizations and insights.
 2. Use the athlete lookup tool to predict performance for specific athletes in the 2024 Paris Olympics.
+![image](https://github.com/user-attachments/assets/fa60d1b3-f872-4669-9c35-0c69b3d3e638)
+
 
 **Future Improvements**
 
@@ -41,4 +42,4 @@ This project analyzes historical Olympic data to predict athlete performance in 
 - Refine the prediction algorithm with machine learning techniques
 - Expand the analysis to include more sports-specific factors
 
-![Paris at nigth](https://github.com/user-attachments/assets/730adddc-3e2e-4a4a-a4db-50fd6a524873)
+
