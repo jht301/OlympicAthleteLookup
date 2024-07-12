@@ -46,3 +46,6 @@ This project analyzes historical Olympic data to predict athlete performance in 
 - Expand the analysis to include more sports-specific factors
 
 
+**Dataset Used**
+https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg?select=Olympic_Athlete_Event_Results.csv
+
