@@ -1,6 +1,7 @@
 # Codedex Summer Hackathon Project
 
 **Olympic Athlete Performance Predictor**
+![Paris full logo](https://github.com/user-attachments/assets/c0cc8893-12b0-4081-b171-b02aedb9f40d)
 
 **Project Overview**
 This project analyzes historical Olympic data to predict athlete performance in the upcoming 2024 Paris Olympics. We focused on the 2021 Tokyo Olympics and prior datasets to identify patterns and factors that contribute to an athlete's likelihood of winning in their respective sports.
@@ -12,6 +13,7 @@ This project analyzes historical Olympic data to predict athlete performance in 
 - Analysis of consecutive wins and their impact on future performance
 - Age-based performance trends
 - Athlete lookup tool with performance prediction
+![PARIS olimpic picture](https://github.com/user-attachments/assets/bc7313ae-6cb6-4cc2-8d40-7118a3147625)
 
 **Technologies Used**
 
@@ -39,3 +41,4 @@ This project analyzes historical Olympic data to predict athlete performance in 
 - Refine the prediction algorithm with machine learning techniques
 - Expand the analysis to include more sports-specific factors
 
+![Paris at nigth](https://github.com/user-attachments/assets/730adddc-3e2e-4a4a-a4db-50fd6a524873)
