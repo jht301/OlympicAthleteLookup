@@ -30,15 +30,8 @@ This project analyzes historical Olympic data to predict athlete performance in 
 4. **Athlete Performance Predictor:** We developed a tool that calculates a ranking for individual athletes based on various criteria, including past performance, age, and country of origin.
 
 **How to Use**
-1. Have the required libraries installed:
-pip install pandas sqlite3 ipywidgets matplotlib google-colab
-
-2. Connect to the Olympic historical dataset:
-conn = sqlite3.connect('/content/olympic_historical_dataset.db?rlkey=wonved4c0nj0v7m6csahb9h49')
-
-3. Run the analysis scripts to generate visualizations and insights.
-   
-4. Use the athlete lookup tool to predict performance for specific athletes in the 2024 Paris Olympics.
+1. Run the analysis scripts to generate visualizations and insights.
+2. Use the athlete lookup tool to predict performance for specific athletes in the 2024 Paris Olympics.
 
 **Future Improvements**
 
