@@ -31,8 +31,11 @@ This project analyzes historical Olympic data to predict athlete performance in 
 4. **Athlete Performance Predictor:** We developed a tool that calculates a ranking for individual athletes based on various criteria, including past performance, age, and country of origin.
 
 **How to Use**
-1. Run the analysis scripts to generate visualizations and insights.
-2. Use the athlete lookup tool to predict performance for specific athletes in the 2024 Paris Olympics.
+1. Navigate to: https://colab.research.google.com/github/jht301/OlympicAthleteLookup/blob/main/Olympic_Odds.ipynb
+2. Run the scripts in the "Setup" Section and wait for them to complete.
+   ![image](https://github.com/user-attachments/assets/14b7a053-99c9-4e6b-91de-669fae783e2a)
+3. View the proofs for our metrics in the "Showing Our Work" Section. Including visualizations.
+4. Run the script in the "Athlete Ranking Lookup" Section and search for any athlete using the resulting search bar. Use the athlete lookup tool to predict performance for specific athletes in the 2024 Paris Olympics.
 ![image](https://github.com/user-attachments/assets/fa60d1b3-f872-4669-9c35-0c69b3d3e638)
 
 
